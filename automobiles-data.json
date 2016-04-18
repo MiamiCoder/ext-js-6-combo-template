@@ -1,0 +1,10 @@
+﻿{
+    "automobiles": [
+        { "id": 1, "name": "1940 Ford Pickup Truck", "category":  "Trucks and Buses", "vendor":  "Welly Diecast Productions" },
+        { "id": 2, "name":"1957 Chevy Pickup", "category":  "Trucks and Buses", "vendor":  "Studio M Art Models" },
+        { "id": 3, "name":"1972 Alfa Romeo GTA", "category":  "Classic Cars", "vendor":  "Motor City Art Classics" },
+        { "id": 4, "name":"1962 Volkswagen Microbus", "category":  "Motorcycles", "vendor":  "Red Start Diecast" },
+        { "id": 5, "name":"2002 Suzuki XREO", "category":  "Classic Cars", "vendor":  "Motor City Art Classics" },
+        { "id": 6, "name":"1965 Aston Martin DB5", "category":  "Classic Cars", "vendor":  "Gearbox Collectibles" }
+    ]
+}
